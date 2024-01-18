@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143491673311",
+    "project_id": "petmate-7035c",
+    "storage_bucket": "petmate-7035c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143491673311:android:ac6c95b4da9b8c21588d6a",
+        "android_client_info": {
+          "package_name": "com.example.petmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaBizy8e0KcWR7h5kkt5RYvReXG9jUUAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PetMate</string>
+    <string name="signin_string">Sign In</string>
+    <string name="my_name_is">My Name is</string>
+    <string name="hooman_name">My hoomans name is</string>
+    <string name="email">Enter Your Email</string>
+    <string name="Email_subtitle">Subscribe to our Newsletter to get Secret Code, Prizes or Discount from PetMates.</string>
+    <string name="my_breed_is">My Breed is</string>
+    <string name="photos">My Best Photos are</string>
+</resources>
